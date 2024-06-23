@@ -38,7 +38,7 @@ def dfs(capacidades, objetivo, estado_actual, camino_actual, visitados):
             if resultado:
                 return resultado
 
-    return None
+    return 
 
 # Ejemplo de uso
 capacidades = (4, 3)  # Capacidades de las jarras A y B
